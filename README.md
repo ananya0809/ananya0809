@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 
 ![Ananya's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya0809&layout=compact&theme=radical)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ananya0809&repo=github-readme-stats)](https://github.com/ananya0809/github-readme-stats)
-
-
 Viewer Count :
  ![Visitor Count](https://profile-counter.glitch.me/{ananya0809}/count.svg)
 
